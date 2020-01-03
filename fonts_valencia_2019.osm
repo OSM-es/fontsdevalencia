@@ -1,0 +1,3315 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-136257' action='modify' lat='39.3214484' lon='-0.3182232'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Del Palmar (Los Jueves)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1903' />
+  </node>
+  <node id='-136259' action='modify' lat='39.3217554' lon='-0.3180112'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Del Palmar 2ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1943' />
+  </node>
+  <node id='-136261' action='modify' lat='39.3081745' lon='-0.2970551'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Iglesia Perellonet' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1901' />
+  </node>
+  <node id='-136263' action='modify' lat='39.3349367' lon='-0.3076822'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Casal Del Esplai (Saler)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1913' />
+  </node>
+  <node id='-136265' action='modify' lat='39.4337668' lon='-0.3972219'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Pai La Torre Barraques' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1952' />
+  </node>
+  <node id='-136267' action='modify' lat='39.4453199' lon='-0.3996919'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 18' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C118' />
+  </node>
+  <node id='-136269' action='modify' lat='39.4459279' lon='-0.4003839'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 13' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C107' />
+  </node>
+  <node id='-136271' action='modify' lat='39.4464009' lon='-0.4009739'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 13' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C109' />
+  </node>
+  <node id='-136273' action='modify' lat='39.4461049' lon='-0.3994349'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 7 Izda' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C114' />
+  </node>
+  <node id='-136275' action='modify' lat='39.4441219' lon='-0.3975679'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 18' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C115' />
+  </node>
+  <node id='-136277' action='modify' lat='39.4444209' lon='-0.3980289'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 18' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C116' />
+  </node>
+  <node id='-136279' action='modify' lat='39.4448909' lon='-0.3973849'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 18' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C120' />
+  </node>
+  <node id='-136281' action='modify' lat='39.4451999' lon='-0.3979269'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 18' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C117' />
+  </node>
+  <node id='-136283' action='modify' lat='39.4459739' lon='-0.3980959'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 6 Izda' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C113' />
+  </node>
+  <node id='-136285' action='modify' lat='39.4463949' lon='-0.3977959'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 3 Izda-Cuadro 4 ( Antes 120 )' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C103b' />
+  </node>
+  <node id='-136287' action='modify' lat='39.4459799' lon='-0.3969509'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 6 Izda' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C112' />
+  </node>
+  <node id='-136289' action='modify' lat='39.4468769' lon='-0.4010949'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 13' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C111' />
+  </node>
+  <node id='-136291' action='modify' lat='39.4480789' lon='-0.4018379'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 14' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C101' />
+  </node>
+  <node id='-136293' action='modify' lat='39.4478939' lon='-0.4010409'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 11' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C100' />
+  </node>
+  <node id='-136295' action='modify' lat='39.4487719' lon='-0.4019749'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 12' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C085' />
+  </node>
+  <node id='-136297' action='modify' lat='39.4491369' lon='-0.4019239'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 12' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C086' />
+  </node>
+  <node id='-136299' action='modify' lat='39.4488839' lon='-0.4011189'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 12' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C084' />
+  </node>
+  <node id='-136301' action='modify' lat='39.4497229' lon='-0.4018729'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 16' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C070' />
+  </node>
+  <node id='-136303' action='modify' lat='39.4497769' lon='-0.4014009'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 16' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C069' />
+  </node>
+  <node id='-136305' action='modify' lat='39.4496729' lon='-0.4011029'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 16' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C068' />
+  </node>
+  <node id='-136307' action='modify' lat='39.4499699' lon='-0.4010059'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General, Sec. 19-50' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C050' />
+  </node>
+  <node id='-136309' action='modify' lat='39.4503859' lon='-0.4010279'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General, Sec. 19-51' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C051' />
+  </node>
+  <node id='-136311' action='modify' lat='39.4468729' lon='-0.4002709'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 13' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C108' />
+  </node>
+  <node id='-136313' action='modify' lat='39.4468399' lon='-0.3999469'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 8-Izda' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C106' />
+  </node>
+  <node id='-136315' action='modify' lat='39.4472979' lon='-0.4009309'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 13' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C110' />
+  </node>
+  <node id='-136317' action='modify' lat='39.4477839' lon='-0.4008909'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 11' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C099' />
+  </node>
+  <node id='-136319' action='modify' lat='39.4476729' lon='-0.3999069'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 10' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C096' />
+  </node>
+  <node id='-136321' action='modify' lat='39.4468229' lon='-0.3992089'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 5-Izda' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C105' />
+  </node>
+  <node id='-136323' action='modify' lat='39.4467469' lon='-0.3985949'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 3 Izda' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C104' />
+  </node>
+  <node id='-136325' action='modify' lat='39.4474199' lon='-0.3992899'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 10' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C119b' />
+  </node>
+  <node id='-136327' action='modify' lat='39.4477719' lon='-0.3994019'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 10-Cuadro 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C119' />
+  </node>
+  <node id='-136329' action='modify' lat='39.4477259' lon='-0.3990319'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec. 1 Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C095' />
+  </node>
+  <node id='-136331' action='modify' lat='39.4471709' lon='-0.3984849'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec. 1 Izda' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C093' />
+  </node>
+  <node id='-136333' action='modify' lat='39.4475649' lon='-0.3984419'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec. 1 Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C094' />
+  </node>
+  <node id='-136335' action='modify' lat='39.4481699' lon='-0.4003549'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 11' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C098' />
+  </node>
+  <node id='-136337' action='modify' lat='39.4478259' lon='-0.4000679'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 11' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C097' />
+  </node>
+  <node id='-136339' action='modify' lat='39.4484289' lon='-0.3996329'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 8 Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C080' />
+  </node>
+  <node id='-136341' action='modify' lat='39.4485339' lon='-0.4008269'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 12' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C083' />
+  </node>
+  <node id='-136343' action='modify' lat='39.4486249' lon='-0.4003359'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.9 (Cementerio Neutro )' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C081b' />
+  </node>
+  <node id='-136345' action='modify' lat='39.4486169' lon='-0.3999709'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.9' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C081' />
+  </node>
+  <node id='-136347' action='modify' lat='39.4489959' lon='-0.3999149'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.9' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C082' />
+  </node>
+  <node id='-136349' action='modify' lat='39.4487349' lon='-0.3994019'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 8 Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C079' />
+  </node>
+  <node id='-136351' action='modify' lat='39.4487399' lon='-0.3989129'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 4 Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C078' />
+  </node>
+  <node id='-136353' action='modify' lat='39.4486749' lon='-0.3983189'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 3.Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C077' />
+  </node>
+  <node id='-136355' action='modify' lat='39.4469229' lon='-0.3976559'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Seccion 3 Iz-Cuadro 3' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C103' />
+  </node>
+  <node id='-136357' action='modify' lat='39.4470929' lon='-0.3974009'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec. 1 Izda' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C089' />
+  </node>
+  <node id='-136359' action='modify' lat='39.4476909' lon='-0.3978789'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec. 1 Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C092' />
+  </node>
+  <node id='-136361' action='modify' lat='39.4475359' lon='-0.3974119'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec. 1 Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C090' />
+  </node>
+  <node id='-136363' action='modify' lat='39.4465849' lon='-0.3967359'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 3 Izda' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C102' />
+  </node>
+  <node id='-136365' action='modify' lat='39.4470389' lon='-0.3967899'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec. 1 Izda' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C088' />
+  </node>
+  <node id='-136367' action='modify' lat='39.4471399' lon='-0.3961999'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Santo Domingo De Guzman (Entrada Cementerio)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='915' />
+  </node>
+  <node id='-136369' action='modify' lat='39.4476329' lon='-0.3966909'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec. 1 Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C087' />
+  </node>
+  <node id='-136371' action='modify' lat='39.4480929' lon='-0.3977899'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec. 1 Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C091' />
+  </node>
+  <node id='-136373' action='modify' lat='39.4482809' lon='-0.3977939'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 3.Izda' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C075' />
+  </node>
+  <node id='-136375' action='modify' lat='39.4489529' lon='-0.3977559'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 3.Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C076' />
+  </node>
+  <node id='-136377' action='modify' lat='39.4491199' lon='-0.3977229'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 5-Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C057' />
+  </node>
+  <node id='-136379' action='modify' lat='39.4485489' lon='-0.3975249'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 3.Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C074' />
+  </node>
+  <node id='-136381' action='modify' lat='39.4481989' lon='-0.3968579'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 3.Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C072' />
+  </node>
+  <node id='-136383' action='modify' lat='39.4485259' lon='-0.3964449'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 3.Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C071' />
+  </node>
+  <node id='-136385' action='modify' lat='39.4488749' lon='-0.3967869'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 3.Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C073' />
+  </node>
+  <node id='-136387' action='modify' lat='39.4494119' lon='-0.4004509'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 16' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C065' />
+  </node>
+  <node id='-136389' action='modify' lat='39.4496279' lon='-0.4006199'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 16' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C067' />
+  </node>
+  <node id='-136391' action='modify' lat='39.4497869' lon='-0.4005499'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 16' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C066' />
+  </node>
+  <node id='-136393' action='modify' lat='39.4495819' lon='-0.3996839'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 7 Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C064' />
+  </node>
+  <node id='-136395' action='modify' lat='39.4500859' lon='-0.4005749'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 19-48' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C048' />
+  </node>
+  <node id='-136397' action='modify' lat='39.4502909' lon='-0.4007219'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 19-48' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C049' />
+  </node>
+  <node id='-136399' action='modify' lat='39.4504329' lon='-0.4004059'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 19-46' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C046' />
+  </node>
+  <node id='-136401' action='modify' lat='39.4500749' lon='-0.4000089'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-41' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C041' />
+  </node>
+  <node id='-136403' action='modify' lat='39.4499819' lon='-0.3997079'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-37' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C037' />
+  </node>
+  <node id='-136405' action='modify' lat='39.4502909' lon='-0.4001079'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-44' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C044' />
+  </node>
+  <node id='-136407' action='modify' lat='39.4504619' lon='-0.3997049'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-38' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C038' />
+  </node>
+  <node id='-136409' action='modify' lat='39.4491929' lon='-0.3990969'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 7 Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C062' />
+  </node>
+  <node id='-136411' action='modify' lat='39.4494809' lon='-0.3990539'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 7 Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C061' />
+  </node>
+  <node id='-136413' action='modify' lat='39.4498079' lon='-0.399008'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 7 Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C063' />
+  </node>
+  <node id='-136415' action='modify' lat='39.4500829' lon='-0.3994209'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-30' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C030' />
+  </node>
+  <node id='-136417' action='modify' lat='39.4502989' lon='-0.3995739'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-33' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C033' />
+  </node>
+  <node id='-136419' action='modify' lat='39.4503029' lon='-0.3990029'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec. 19-26' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C026' />
+  </node>
+  <node id='-136421' action='modify' lat='39.4499859' lon='-0.3987019'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General, Secc. 19-21' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C021' />
+  </node>
+  <node id='-136423' action='modify' lat='39.4500899' lon='-0.3988499'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-22' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C022' />
+  </node>
+  <node id='-136425' action='modify' lat='39.4500889' lon='-0.3982929'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 19-14' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C014' />
+  </node>
+  <node id='-136427' action='modify' lat='39.4503029' lon='-0.3984339'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 19-16' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C016' />
+  </node>
+  <node id='-136429' action='modify' lat='39.4504689' lon='-0.3985679'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 19-18' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C018' />
+  </node>
+  <node id='-136431' action='modify' lat='39.4509309' lon='-0.4004379'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 19-47' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C047' />
+  </node>
+  <node id='-136433' action='modify' lat='39.4505829' lon='-0.4001129'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-45' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C045' />
+  </node>
+  <node id='-136435' action='modify' lat='39.4507879' lon='-0.4000029'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-42' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C042' />
+  </node>
+  <node id='-136437' action='modify' lat='39.4510729' lon='-0.399979'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-43' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C043' />
+  </node>
+  <node id='-136439' action='modify' lat='39.4509679' lon='-0.3997159'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-39' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C039' />
+  </node>
+  <node id='-136441' action='modify' lat='39.4513879' lon='-0.3997309'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 19-40' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C040' />
+  </node>
+  <node id='-136443' action='modify' lat='39.4505809' lon='-0.3994289'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-31' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C031' />
+  </node>
+  <node id='-136445' action='modify' lat='39.4507899' lon='-0.3995769'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-34' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C034' />
+  </node>
+  <node id='-136447' action='modify' lat='39.4507979' lon='-0.3989809'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 19-27' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C027' />
+  </node>
+  <node id='-136449' action='modify' lat='39.4510899' lon='-0.3994509'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-32' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C032' />
+  </node>
+  <node id='-136451' action='modify' lat='39.4505759' lon='-0.3988579'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec. 19-23' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C023' />
+  </node>
+  <node id='-136453' action='modify' lat='39.4505889' lon='-0.3983049'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-15' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C015' />
+  </node>
+  <node id='-136455' action='modify' lat='39.4507919' lon='-0.3984579'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 19-17' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C017' />
+  </node>
+  <node id='-136457' action='modify' lat='39.4510839' lon='-0.3988529'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General, Secc 19-24' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C024' />
+  </node>
+  <node id='-136459' action='modify' lat='39.4509719' lon='-0.3985599'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 19-19' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C019' />
+  </node>
+  <node id='-136461' action='modify' lat='39.4512849' lon='-0.3995739'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-35' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C035' />
+  </node>
+  <node id='-136463' action='modify' lat='39.4512929' lon='-0.3989809'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 19-28' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C028' />
+  </node>
+  <node id='-136465' action='modify' lat='39.4514299' lon='-0.3991209'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-29' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C029' />
+  </node>
+  <node id='-136467' action='modify' lat='39.4516989' lon='-0.3995419'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-36' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C036' />
+  </node>
+  <node id='-136469' action='modify' lat='39.4515059' lon='-0.3986619'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-20' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C020' />
+  </node>
+  <node id='-136471' action='modify' lat='39.4516659' lon='-0.3988499'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General. Secc. 19-25' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C025' />
+  </node>
+  <node id='-136473' action='modify' lat='39.4494949' lon='-0.3982109'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 5-Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C060' />
+  </node>
+  <node id='-136475' action='modify' lat='39.4493669' lon='-0.3979779'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 5-Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C058' />
+  </node>
+  <node id='-136477' action='modify' lat='39.4497459' lon='-0.3979219'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 5-Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C059' />
+  </node>
+  <node id='-136479' action='modify' lat='39.4495079' lon='-0.3976699'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 5-Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C056' />
+  </node>
+  <node id='-136481' action='modify' lat='39.4493519' lon='-0.3974309'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 5-Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C055' />
+  </node>
+  <node id='-136483' action='modify' lat='39.4499859' lon='-0.3975869'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 19-8' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C008' />
+  </node>
+  <node id='-136485' action='modify' lat='39.4500979' lon='-0.3976879'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-9' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C009' />
+  </node>
+  <node id='-136487' action='modify' lat='39.4503069' lon='-0.3978439'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-11' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C011' />
+  </node>
+  <node id='-136489' action='modify' lat='39.4500939' lon='-0.397321'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 19-5' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C005' />
+  </node>
+  <node id='-136491' action='modify' lat='39.4505079' lon='-0.3975299'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-7' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C007' />
+  </node>
+  <node id='-136493' action='modify' lat='39.4504999' lon='-0.3972699'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-6' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C006' />
+  </node>
+  <node id='-136495' action='modify' lat='39.4502099' lon='-0.3971709'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-4' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C004' />
+  </node>
+  <node id='-136497' action='modify' lat='39.4493459' lon='-0.3965669'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec 5-Dcha' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C054' />
+  </node>
+  <node id='-136499' action='modify' lat='39.4493189' lon='-0.3961009'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec  Junto Crematorio' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C053' />
+  </node>
+  <node id='-136501' action='modify' lat='39.4499739' lon='-0.3968359'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc.19-3' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C003' />
+  </node>
+  <node id='-136503' action='modify' lat='39.4499939' lon='-0.3965669'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 19-1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C001' />
+  </node>
+  <node id='-136505' action='modify' lat='39.4501479' lon='-0.3967499'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 19-2' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C002' />
+  </node>
+  <node id='-136507' action='modify' lat='39.4505909' lon='-0.3977019'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc. 19-10' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C010' />
+  </node>
+  <node id='-136509' action='modify' lat='39.4508019' lon='-0.3978629'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Sec.19-12' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C012' />
+  </node>
+  <node id='-136511' action='modify' lat='39.4509909' lon='-0.3979829'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio General Secc 19-13' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='C013' />
+  </node>
+  <node id='-136515' action='modify' lat='39.4596008' lon='-0.4131929'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Pai  Ros Casares' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='824' />
+  </node>
+  <node id='-136523' action='modify' lat='39.4538359' lon='-0.4011729'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Mariano De Cavia-Nicolau De Primitiu' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='829' />
+  </node>
+  <node id='-136525' action='modify' lat='39.4554639' lon='-0.3989919'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Borrasca 2ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='832' />
+  </node>
+  <node id='-136533' action='modify' lat='39.4622169' lon='-0.402027'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Emilio Lluch 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='810' />
+  </node>
+  <node id='-136535' action='modify' lat='39.4624169' lon='-0.40203'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Emilio Lluch 2' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='811' />
+  </node>
+  <node id='-136537' action='modify' lat='39.4576769' lon='-0.4006129'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Actor Daniel Benitez' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='802' />
+  </node>
+  <node id='-136543' action='modify' lat='39.4593679' lon='-0.3975029'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Vall D^Uxo' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='835' />
+  </node>
+  <node id='-136545' action='modify' lat='39.4589389' lon='-0.396425'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Virgen De La Cabeza' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='834' />
+  </node>
+  <node id='-136551' action='modify' lat='39.4618549' lon='-0.397061'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Alqueria Benlloch' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='814' />
+  </node>
+  <node id='-136553' action='modify' lat='39.4627929' lon='-0.397871'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Archiduque Carlos / Jose M. Mortes Lerma' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='813' />
+  </node>
+  <node id='-136555' action='modify' lat='39.4326438' lon='-0.3954059'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Pai La Torre ( Junto Al Palmeral )' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1951' />
+  </node>
+  <node id='-136557' action='modify' lat='39.4320069' lon='-0.3904649'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Pintor Ismael Blat Frente N. 25' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1934' />
+  </node>
+  <node id='-136559' action='modify' lat='39.4353419' lon='-0.3932009'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardines Castillo Jerica (La Torre)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1933' />
+  </node>
+  <node id='-136561' action='modify' lat='39.4345839' lon='-0.3888219'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Gimemez Y Costa / Moli De Pala (La Torre)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1930' />
+  </node>
+  <node id='-136563' action='modify' lat='39.4358449' lon='-0.3930879'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardines Castillo Enguera (La Torre)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1932' />
+  </node>
+  <node id='-136565' action='modify' lat='39.4324209' lon='-0.3769559'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Iglesia Horno Alcedo' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1929' />
+  </node>
+  <node id='-136567' action='modify' lat='39.423777' lon='-0.364933'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Periodista  Matoses, 13-Castellar' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1942' />
+  </node>
+  <node id='-136569' action='modify' lat='39.424005' lon='-0.363855'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Fuente San Agustin (Oliveral)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1920' />
+  </node>
+  <node id='-136571' action='modify' lat='39.428325' lon='-0.370608'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Entrada Viñero (Castellar)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1927' />
+  </node>
+  <node id='-136573' action='modify' lat='39.42796' lon='-0.369366'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Poblet De Castellar' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1926' />
+  </node>
+  <node id='-136575' action='modify' lat='39.426279' lon='-0.364866'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Font De Bonet (Castellar)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1925' />
+  </node>
+  <node id='-136577' action='modify' lat='39.42819' lon='-0.365851'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Comandante Franco, 26 (Castellar)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1924' />
+  </node>
+  <node id='-136579' action='modify' lat='39.429249' lon='-0.363553'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Virgen De Lepanto (Castellar)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1923' />
+  </node>
+  <node id='-136581' action='modify' lat='39.423928' lon='-0.362397'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Camino De Tremolar / Doctor Ruiz Y Comes' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1915' />
+  </node>
+  <node id='-136583' action='modify' lat='39.4220291' lon='-0.3538091'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Camino Del Tremolar, 118 (Castellar )' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1919' />
+  </node>
+  <node id='-136585' action='modify' lat='39.425855' lon='-0.361739'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Carretera Del Pi (Castellar)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1921' />
+  </node>
+  <node id='-136587' action='modify' lat='39.429156' lon='-0.361862'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza José Siurana/Ador (Castellar)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1945' />
+  </node>
+  <node id='-136589' action='modify' lat='39.430769' lon='-0.364056'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Rocio /Pastor Aycar ( Castellar )' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1950' />
+  </node>
+  <node id='-136591' action='modify' lat='39.432024' lon='-0.361361'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Ador, De Castellar' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1941' />
+  </node>
+  <node id='-136593' action='modify' lat='39.4434469' lon='-0.3930109'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Alqueria Dels Balcons-Salvador Perles' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='931' />
+  </node>
+  <node id='-136595' action='modify' lat='39.4457629' lon='-0.3931769'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='San Pio Ix Parque Rambleta Fte. Nº 17- 2ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='920' />
+  </node>
+  <node id='-136597' action='modify' lat='39.4457639' lon='-0.3931609'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='San Pio Ix Parque Rambleta Fte. Nº 17- 1ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='919' />
+  </node>
+  <node id='-136599' action='modify' lat='39.4454539' lon='-0.3911249'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Monseñor Oscar Romero' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='911' />
+  </node>
+  <node id='-136601' action='modify' lat='39.4431999' lon='-0.3896389'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Miguel Catalá Gomis' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='929' />
+  </node>
+  <node id='-136603' action='modify' lat='39.4455099' lon='-0.3898859'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Canonge Roger Chillida' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='912' />
+  </node>
+  <node id='-136605' action='modify' lat='39.4462609' lon='-0.386905'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Bulevar Sur - San Vicente Martir' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='926' />
+  </node>
+  <node id='-136607' action='modify' lat='39.4469019' lon='-0.3916619'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Ingeniero Jose Sirera 24' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='909' />
+  </node>
+  <node id='-136609' action='modify' lat='39.4475809' lon='-0.3925919'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Pio Ix-Tomas Sala (Auditorio Rambleta)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='933' />
+  </node>
+  <node id='-136611' action='modify' lat='39.4467409' lon='-0.3909079'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Ingeniero Jose Sirera 30' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='910' />
+  </node>
+  <node id='-136613' action='modify' lat='39.4485689' lon='-0.3911019'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Segovia 11' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='913' />
+  </node>
+  <node id='-136615' action='modify' lat='39.4489099' lon='-0.3909709'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Segovia 8' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='905' />
+  </node>
+  <node id='-136617' action='modify' lat='39.4497559' lon='-0.3952479'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Bulevar Sur - Gaspar Aguilar 2' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='928' />
+  </node>
+  <node id='-136619' action='modify' lat='39.4501479' lon='-0.3948919'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Bulevar Sur - Gaspar Aguilar 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='927' />
+  </node>
+  <node id='-136621' action='modify' lat='39.4501659' lon='-0.3916409'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Julio Verne' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='906' />
+  </node>
+  <node id='-136623' action='modify' lat='39.4483439' lon='-0.388002'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza De Holanda' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='902' />
+  </node>
+  <node id='-136625' action='modify' lat='39.4489609' lon='-0.387314'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Republica Costa De Marfil / 1º De Mayo' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='901' />
+  </node>
+  <node id='-136627' action='modify' lat='39.4509839' lon='-0.389516'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Esculto Frechina' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='903' />
+  </node>
+  <node id='-136635' action='modify' lat='39.4542409' lon='-0.387776'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Carteros / Costa Y Borras' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='908' />
+  </node>
+  <node id='-136637' action='modify' lat='39.4597299' lon='-0.39534'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza La Safor' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='823' />
+  </node>
+  <node id='-136639' action='modify' lat='39.4577149' lon='-0.392683'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Jacinto Labaila' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='817' />
+  </node>
+  <node id='-136641' action='modify' lat='39.4584699' lon='-0.39069'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Franco Tormo Frente Nº 9-Junto Parque Antiguo Manicomio' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='820' />
+  </node>
+  <node id='-136643' action='modify' lat='39.4615429' lon='-0.395222'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Enrique Granados 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='815' />
+  </node>
+  <node id='-136649' action='modify' lat='39.4628879' lon='-0.392168'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza De Patraix' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='822' />
+  </node>
+  <node id='-136651' action='modify' lat='39.4588599' lon='-0.389073'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Gaspar Aguilar Frente 11 (Jardin Antiguo Manicomio)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='819' />
+  </node>
+  <node id='-136655' action='modify' lat='39.4601339' lon='-0.386155'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Avda Giorgeta Jardin' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='914' />
+  </node>
+  <node id='-136657' action='modify' lat='39.4521119' lon='-0.377152'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Escultor Victor Hino' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1009' />
+  </node>
+  <node id='-136659' action='modify' lat='39.4545539' lon='-0.375971'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Pianista Amparo Iturbi / Juan R. Jimenez' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1011' />
+  </node>
+  <node id='-136665' action='modify' lat='39.442063' lon='-0.368231'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Musico Cuesta-Grabador Jordan ( Jardin )' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1049' />
+  </node>
+  <node id='-136667' action='modify' lat='39.44389' lon='-0.366918'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Escultor Pastor 2 (Jardin)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1013' />
+  </node>
+  <node id='-136669' action='modify' lat='39.444485' lon='-0.367251'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Escultor Pastor 1 (Jardín)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1012' />
+  </node>
+  <node id='-136671' action='modify' lat='39.4504149' lon='-0.372073'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Diputado Molina Conejero' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1036' />
+  </node>
+  <node id='-136673' action='modify' lat='39.4500519' lon='-0.368946'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Ceramista Jaime Scals' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1047' />
+  </node>
+  <node id='-136675' action='modify' lat='39.4512559' lon='-0.369147'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Hermanos Maristas (Junto Parque Infantil)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1006' />
+  </node>
+  <node id='-136677' action='modify' lat='39.444687' lon='-0.3576'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Carretera En Corts 119' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1015' />
+  </node>
+  <node id='-136679' action='modify' lat='39.445802' lon='-0.358453'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Carretera En Corts, 86' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1016' />
+  </node>
+  <node id='-136681' action='modify' lat='39.447748' lon='-0.359824'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Carretera En Corts Frente Al 58' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1017' />
+  </node>
+  <node id='-136683' action='modify' lat='39.4556979' lon='-0.371337'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Prolongación Jardín Avda. Dr. Waksman' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1037' />
+  </node>
+  <node id='-136685' action='modify' lat='39.4532819' lon='-0.366388'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Arabista Ambrosio Huici' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1043' />
+  </node>
+  <node id='-136699' action='modify' lat='39.4558659' lon='-0.358719'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Bandas De Musica Valencia' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1001' />
+  </node>
+  <node id='-136705' action='modify' lat='39.4607439' lon='-0.357872'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Xii Estanque' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1034' />
+  </node>
+  <node id='-136707' action='modify' lat='39.4611759' lon='-0.358359'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Xii Minigolf' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1033' />
+  </node>
+  <node id='-136711' action='modify' lat='39.4622449' lon='-0.358964'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Xii Dentro Gulliver' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1032' />
+  </node>
+  <node id='-136719' action='modify' lat='39.4606829' lon='-0.35489'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Rotonda Avd. Francia / T. De Montañana (1)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1225' />
+  </node>
+  <node id='-136721' action='modify' lat='39.4605589' lon='-0.354462'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Rotonda Avda. Francia/T. De Montañana (2)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1226' />
+  </node>
+  <node id='-136723' action='modify' lat='39.4611989' lon='-0.353496'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Casas Del Contell (Int. Colegio)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1222' />
+  </node>
+  <node id='-136729' action='modify' lat='39.4682578' lon='-0.4145249'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Avda. Marconi 2ª Fase' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='708' />
+  </node>
+  <node id='-136731' action='modify' lat='39.4640759' lon='-0.407103'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Rei Alfons El Benigne' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='711' />
+  </node>
+  <node id='-136733' action='modify' lat='39.4663079' lon='-0.4082169'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Doctor Berenguer Ferrer' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='712' />
+  </node>
+  <node id='-136735' action='modify' lat='39.4687248' lon='-0.4139829'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Avda. Marconi 1ª Fase' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='707' />
+  </node>
+  <node id='-136737' action='modify' lat='39.4698659' lon='-0.4141179'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Avda. Del Cid 164' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='706' />
+  </node>
+  <node id='-136739' action='modify' lat='39.4685789' lon='-0.4106879'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Zumalacarregui' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='709' />
+  </node>
+  <node id='-136741' action='modify' lat='39.4719339' lon='-0.409113'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Calle Archena' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='726' />
+  </node>
+  <node id='-136743' action='modify' lat='39.4721739' lon='-0.40822'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Sala Hipostila (C/ Yatova)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='725' />
+  </node>
+  <node id='-136745' action='modify' lat='39.4722289' lon='-0.406876'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Sainetero Arniches' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='701' />
+  </node>
+  <node id='-136747' action='modify' lat='39.4731779' lon='-0.406718'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque Cabecera Nº 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='456' />
+  </node>
+  <node id='-136751' action='modify' lat='39.4653349' lon='-0.403426'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Mercado De Castilla' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='714' />
+  </node>
+  <node id='-136753' action='modify' lat='39.4669189' lon='-0.406011'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tres Cruces Nº 31/ Hospital General' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='710' />
+  </node>
+  <node id='-136755' action='modify' lat='39.4629459' lon='-0.398335'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Fray Junipero Serra (Frente Nº 52-Junto Gasolinera)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='825' />
+  </node>
+  <node id='-136757' action='modify' lat='39.4655789' lon='-0.400959'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza De Maguncia' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='715' />
+  </node>
+  <node id='-136759' action='modify' lat='39.4640939' lon='-0.397169'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tres Forques/ Alfredo Culla' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='716' />
+  </node>
+  <node id='-136761' action='modify' lat='39.4676329' lon='-0.3969'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque Oeste Fuente Nº 2' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='718' />
+  </node>
+  <node id='-136763' action='modify' lat='39.4671349' lon='-0.396728'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque Oeste Fuente Nº 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='717' />
+  </node>
+  <node id='-136765' action='modify' lat='39.4673799' lon='-0.395929'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque Oeste Fuente Nº 3' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='719' />
+  </node>
+  <node id='-136769' action='modify' lat='39.4738219' lon='-0.404242'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo I Casa Agua 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='438' />
+  </node>
+  <node id='-136773' action='modify' lat='39.4738459' lon='-0.402039'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Ii Casa De Agua (Paseo)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='440' />
+  </node>
+  <node id='-136779' action='modify' lat='39.4764859' lon='-0.407889'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque De Cabecera Nº 7-Frente Casa Jardineria' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='462' />
+  </node>
+  <node id='-136781' action='modify' lat='39.4778609' lon='-0.4095'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque De Cabecera Nº 3-Junto Embarcadero' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='458' />
+  </node>
+  <node id='-136787' action='modify' lat='39.4834599' lon='-0.408145'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Casas Labranza Campanar 1ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='418' />
+  </node>
+  <node id='-136789' action='modify' lat='39.4841379' lon='-0.408349'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Casas Labranza Campanar 2ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='419' />
+  </node>
+  <node id='-136791' action='modify' lat='39.4743329' lon='-0.403664'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Trama I Casa De Agua 2' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='439' />
+  </node>
+  <node id='-136793' action='modify' lat='39.4747999' lon='-0.402895'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Ii Junto Casa Jardineria' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='441' />
+  </node>
+  <node id='-136795' action='modify' lat='39.4756319' lon='-0.401851'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tamarindos/Manuel De Falla' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='452' />
+  </node>
+  <node id='-136797' action='modify' lat='39.4763989' lon='-0.402001'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tamarindos/Dr. Lopez Ibor' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='451' />
+  </node>
+  <node id='-136801' action='modify' lat='39.4793509' lon='-0.404963'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Camino Pouet 2' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='427' />
+  </node>
+  <node id='-136803' action='modify' lat='39.4790799' lon='-0.401136'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Policia Local' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='424' />
+  </node>
+  <node id='-136805' action='modify' lat='39.4747859' lon='-0.400477'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Ii Centro' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='443' />
+  </node>
+  <node id='-136807' action='modify' lat='39.4751669' lon='-0.398547'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Ii Campo Futbol Centro' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='444' />
+  </node>
+  <node id='-136809' action='modify' lat='39.4765499' lon='-0.400734'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Dr. Lopez Ibor (1)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='449' />
+  </node>
+  <node id='-136811' action='modify' lat='39.4751509' lon='-0.396941'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Ii Puente Campanar (Acequia Tetera)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='446' />
+  </node>
+  <node id='-136813' action='modify' lat='39.4753649' lon='-0.397253'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Ii Puente Campanar (Columpios)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='445' />
+  </node>
+  <node id='-136815' action='modify' lat='39.4763179' lon='-0.395769'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Iii Pte Campanar Estanque' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='328' />
+  </node>
+  <node id='-136817' action='modify' lat='39.4766809' lon='-0.400009'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Dr. Lopez Ibor (2)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='450' />
+  </node>
+  <node id='-136819' action='modify' lat='39.4778659' lon='-0.400297'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Eduardo Soler Perez/Valle Ballestera' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='447' />
+  </node>
+  <node id='-136821' action='modify' lat='39.4768989' lon='-0.399292'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Eduardo Soler Perez ( Frente Nº 10 )' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='467' />
+  </node>
+  <node id='-136823' action='modify' lat='39.4779189' lon='-0.399047'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Eduardo Soler Perez-Parque Interior' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='448' />
+  </node>
+  <node id='-136825' action='modify' lat='39.4782009' lon='-0.397636'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Marques De San Juan 1ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='407' />
+  </node>
+  <node id='-136827' action='modify' lat='39.4785429' lon='-0.396025'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Marques De San Juan 2ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='408' />
+  </node>
+  <node id='-136829' action='modify' lat='39.4793529' lon='-0.395623'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Diputado Luis Lucia 3ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='406' />
+  </node>
+  <node id='-136831' action='modify' lat='39.4800999' lon='-0.403894'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Camino Del Pouet 1ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='426' />
+  </node>
+  <node id='-136833' action='modify' lat='39.4797609' lon='-0.402447'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Riola/Avda. Tamarindos (Parque)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='466' />
+  </node>
+  <node id='-136835' action='modify' lat='39.4833179' lon='-0.40551'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Campanar 1º' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='413' />
+  </node>
+  <node id='-136837' action='modify' lat='39.4837569' lon='-0.406013'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Campanar  6ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='465' />
+  </node>
+  <node id='-136839' action='modify' lat='39.4836609' lon='-0.405511'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Campanar 2ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='414' />
+  </node>
+  <node id='-136841' action='modify' lat='39.4839779' lon='-0.405449'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Campanar 5' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='417' />
+  </node>
+  <node id='-136843' action='modify' lat='39.4835399' lon='-0.405018'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Campanar 3ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='415' />
+  </node>
+  <node id='-136845' action='modify' lat='39.4840129' lon='-0.405031'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Campanar 4' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='416' />
+  </node>
+  <node id='-136847' action='modify' lat='39.4822089' lon='-0.402938'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Luis Buñuel- General Aviles' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='436' />
+  </node>
+  <node id='-136849' action='modify' lat='39.4843169' lon='-0.402771'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Musico Maestro Rodrigo 97' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='431' />
+  </node>
+  <node id='-136851' action='modify' lat='39.4814889' lon='-0.399267'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza De Badajoz 5' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='410' />
+  </node>
+  <node id='-136853' action='modify' lat='39.4799809' lon='-0.396728'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Grabador Enguidanos 43' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='409' />
+  </node>
+  <node id='-136855' action='modify' lat='39.4808699' lon='-0.397202'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Instituto Campanar-Dragaminas ( Jardin )' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='468' />
+  </node>
+  <node id='-136859' action='modify' lat='39.4831599' lon='-0.400821'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Mosen Rausell 33' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='420' />
+  </node>
+  <node id='-136861' action='modify' lat='39.4830929' lon='-0.398591'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Mosen Rausell 3' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='421' />
+  </node>
+  <node id='-136863' action='modify' lat='39.4824149' lon='-0.39736'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Iglesia Campanar 3' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='422' />
+  </node>
+  <node id='-136865' action='modify' lat='39.499998' lon='-0.426129'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Campamento, 77 (Benimamet)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1804' />
+  </node>
+  <node id='-136867' action='modify' lat='39.5012' lon='-0.4265851'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Velodromo Luis Puch, 2' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1806' />
+  </node>
+  <node id='-136869' action='modify' lat='39.50088' lon='-0.4263571'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Velodromo Luis Puig, 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1805' />
+  </node>
+  <node id='-136871' action='modify' lat='39.501309' lon='-0.4239341'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin De Panach Nº 1- C/Campamento Benimamet' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1819' />
+  </node>
+  <node id='-136873' action='modify' lat='39.4975029' lon='-0.418606'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Doctor Ximeno (Benimamet)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1802' />
+  </node>
+  <node id='-136875' action='modify' lat='39.501756' lon='-0.4234271'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin De Panach Nº 2 C/Campamento Benimamet' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1820' />
+  </node>
+  <node id='-136877' action='modify' lat='39.506092' lon='-0.4236561'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio De Benimamet, 4-1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1813' />
+  </node>
+  <node id='-136879' action='modify' lat='39.506148' lon='-0.4233831'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Benimamet, 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1810' />
+  </node>
+  <node id='-136881' action='modify' lat='39.506227' lon='-0.4240411'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Benimamet, 4-3' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1815' />
+  </node>
+  <node id='-136883' action='modify' lat='39.506217' lon='-0.4237331'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Benimamet, 4-2' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1814' />
+  </node>
+  <node id='-136885' action='modify' lat='39.506819' lon='-0.4239161'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Benimamet, 3' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1812' />
+  </node>
+  <node id='-136887' action='modify' lat='39.506493' lon='-0.4236441'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Benimamet, 2' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1811' />
+  </node>
+  <node id='-136889' action='modify' lat='39.5015209' lon='-0.418553'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Luis Cano (Benimamet)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1808' />
+  </node>
+  <node id='-136891' action='modify' lat='39.4851849' lon='-0.400615'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Medico Tarazona' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='453' />
+  </node>
+  <node id='-136893' action='modify' lat='39.4858099' lon='-0.399317'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Padre Muedra, 21' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='428' />
+  </node>
+  <node id='-136895' action='modify' lat='39.4857619' lon='-0.398347'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Escultor Garcia Mas 3' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='429' />
+  </node>
+  <node id='-136897' action='modify' lat='39.4892489' lon='-0.400705'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza La Safor' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='432' />
+  </node>
+  <node id='-136899' action='modify' lat='39.4915789' lon='-0.404482'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin De Polifilo 3' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='435' />
+  </node>
+  <node id='-136903' action='modify' lat='39.4922079' lon='-0.403959'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin De Polifilo 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='433' />
+  </node>
+  <node id='-136905' action='modify' lat='39.4942199' lon='-0.405766'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Vicent Tomas I Marti' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1818' />
+  </node>
+  <node id='-136907' action='modify' lat='39.4952139' lon='-0.404999'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Xiprers-Ciudad De Córdoba (Beniferri)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1817' />
+  </node>
+  <node id='-136909' action='modify' lat='39.4916129' lon='-0.396342'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Nicasio Benlloch - Garbi' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1606' />
+  </node>
+  <node id='-136913' action='modify' lat='39.4947869' lon='-0.398316'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Alqueria De Bellver' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1605' />
+  </node>
+  <node id='-136917' action='modify' lat='39.4963909' lon='-0.405228'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Gestalgar (Beniferri)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1801' />
+  </node>
+  <node id='-136919' action='modify' lat='39.4964469' lon='-0.403022'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Avda. Las Cortes 1 (Junto Palacio De Congresos)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1613' />
+  </node>
+  <node id='-136921' action='modify' lat='39.4971739' lon='-0.40342'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Avda. Las Cortes 2 (Junto Palacio De Congresos)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1614' />
+  </node>
+  <node id='-136923' action='modify' lat='39.4984079' lon='-0.401575'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Parking Palau 3' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1617' />
+  </node>
+  <node id='-136925' action='modify' lat='39.4977919' lon='-0.400764'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Parking Palau 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1615' />
+  </node>
+  <node id='-136929' action='modify' lat='39.4960829' lon='-0.396476'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque Benicalap Copa' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1623' />
+  </node>
+  <node id='-136931' action='modify' lat='39.4962529' lon='-0.396695'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque Benicalap' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1624' />
+  </node>
+  <node id='-136933' action='modify' lat='39.4964919' lon='-0.395917'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque De Benicalap Piscina (Dentro)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1621' />
+  </node>
+  <node id='-136935' action='modify' lat='39.4964969' lon='-0.395854'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque Benicalap Petanca' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1625' />
+  </node>
+  <node id='-136937' action='modify' lat='39.4980619' lon='-0.397687'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque De Benicalap 2' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1620' />
+  </node>
+  <node id='-136939' action='modify' lat='39.4974699' lon='-0.396807'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque Benicalap Caja (Junto Cascada)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1626' />
+  </node>
+  <node id='-136941' action='modify' lat='39.4654299' lon='-0.394717'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque Oeste Fuente 8' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='724' />
+  </node>
+  <node id='-136943' action='modify' lat='39.4645559' lon='-0.390536'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Aparcamiento Tres Forques / Calle Chiva' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='728' />
+  </node>
+  <node id='-136945' action='modify' lat='39.4658939' lon='-0.395173'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque Oeste Fuente Nº 5' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='721' />
+  </node>
+  <node id='-136947' action='modify' lat='39.4663639' lon='-0.395358'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque Oeste Fuente Nº 4' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='720' />
+  </node>
+  <node id='-136951' action='modify' lat='39.4647609' lon='-0.384929'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jesus / Salas Quiroga' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='310' />
+  </node>
+  <node id='-136953' action='modify' lat='39.4671869' lon='-0.387654'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Interior Mercado Abastos 1ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='307' />
+  </node>
+  <node id='-136957' action='modify' lat='39.4700659' lon='-0.394731'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Arturo Piera' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='704' />
+  </node>
+  <node id='-136961' action='modify' lat='39.4725559' lon='-0.392881'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Horticultor Corset 1ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='303' />
+  </node>
+  <node id='-136965' action='modify' lat='39.4722199' lon='-0.390987'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Gabriel Miro / Juan Llorens' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='305' />
+  </node>
+  <node id='-136975' action='modify' lat='39.4641549' lon='-0.383781'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Marva / Albacete' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='309' />
+  </node>
+  <node id='-136977' action='modify' lat='39.4632999' lon='-0.381952'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='San Vicente Martir 129' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='318' />
+  </node>
+  <node id='-136981' action='modify' lat='39.4683749' lon='-0.38282'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza De Vannes' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='316' />
+  </node>
+  <node id='-136989' action='modify' lat='39.4687059' lon='-0.380394'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Iglesia San Agustin' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='111' />
+  </node>
+  <node id='-136993' action='modify' lat='39.4724439' lon='-0.382054'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Guillen Soroya - Torno Del Hospital' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='137' />
+  </node>
+  <node id='-136999' action='modify' lat='39.4738109' lon='-0.376864'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Economista Gay 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='506' />
+  </node>
+  <node id='-137001' action='modify' lat='39.4738109' lon='-0.376864'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Lope De Vega' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='105' />
+  </node>
+  <node id='-137003' action='modify' lat='39.4726159' lon='-0.376085'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Mariano Benlliure' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='109' />
+  </node>
+  <node id='-137007' action='modify' lat='39.4758469' lon='-0.395418'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Iii Pte Campanar Estanque' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='324' />
+  </node>
+  <node id='-137009' action='modify' lat='39.4760609' lon='-0.394046'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Iii Pte Campanar Paseo' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='325' />
+  </node>
+  <node id='-137011' action='modify' lat='39.4764799' lon='-0.393638'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Iii Interior Pistas Atletismo 2ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='331' />
+  </node>
+  <node id='-137013' action='modify' lat='39.4758259' lon='-0.391176'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Norte / Doctor Zamenhof' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='302' />
+  </node>
+  <node id='-137017' action='modify' lat='39.4771879' lon='-0.394177'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Iii Interior Pista Atletismo 1ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='330' />
+  </node>
+  <node id='-137021' action='modify' lat='39.4776939' lon='-0.391997'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Iii Atletismo Lago Centro' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='332' />
+  </node>
+  <node id='-137023' action='modify' lat='39.4773239' lon='-0.391227'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Iii Pte Ademuz Paseo' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='326' />
+  </node>
+  <node id='-137025' action='modify' lat='39.4778479' lon='-0.391059'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Iii Pte Ademuz Lago' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='327' />
+  </node>
+  <node id='-137027' action='modify' lat='39.4781089' lon='-0.391896'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Iii Pte Ademuz Rampa' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='333' />
+  </node>
+  <node id='-137031' action='modify' lat='39.4741789' lon='-0.385266'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Turia Nº 3' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='315' />
+  </node>
+  <node id='-137035' action='modify' lat='39.4771669' lon='-0.388073'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardín De Las Hesperides 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='339' />
+  </node>
+  <node id='-137043' action='modify' lat='39.4797389' lon='-0.395242'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Diputado Luis Lucia 1ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='404' />
+  </node>
+  <node id='-137045' action='modify' lat='39.4835929' lon='-0.395355'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Avenida Pio Xii,Jardin Parque Hoyos' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='464' />
+  </node>
+  <node id='-137049' action='modify' lat='39.4798019' lon='-0.384992'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Iv-V Pte Artes (Monticulo)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='335' />
+  </node>
+  <node id='-137051' action='modify' lat='39.4823699' lon='-0.388741'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Gregorio Gea' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='402' />
+  </node>
+  <node id='-137053' action='modify' lat='39.4824359' lon='-0.387677'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Gregorio Gea 21 (Frente Ivo)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='401' />
+  </node>
+  <node id='-137055' action='modify' lat='39.4824439' lon='-0.387677'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Ricardo Mico' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='455' />
+  </node>
+  <node id='-137057' action='modify' lat='39.4758419' lon='-0.383529'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Santa Ursula' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='136' />
+  </node>
+  <node id='-137065' action='modify' lat='39.4760579' lon='-0.378277'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Correo Viejo' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='121' />
+  </node>
+  <node id='-137067' action='modify' lat='39.4746259' lon='-0.375535'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Plaza De La Reina' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='104' />
+  </node>
+  <node id='-137069' action='modify' lat='39.4764399' lon='-0.37568'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Generalitat-C/Caballeros Frente Nº3' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='138' />
+  </node>
+  <node id='-137071' action='modify' lat='39.4765029' lon='-0.374946'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Canonigo Li?An (Plaza Virgen)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='119' />
+  </node>
+  <node id='-137073' action='modify' lat='39.4764919' lon='-0.373538'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='San Luis Bertran' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='118' />
+  </node>
+  <node id='-137085' action='modify' lat='39.4804959' lon='-0.37734'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Blanquerias' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='122' />
+  </node>
+  <node id='-137087' action='modify' lat='39.4821039' lon='-0.376828'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Vi Zona Beisbol' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='128' />
+  </node>
+  <node id='-137091' action='modify' lat='39.4797019' lon='-0.374001'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Vii Pont De Fusta (Futbol)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='129' />
+  </node>
+  <node id='-137105' action='modify' lat='39.4738489' lon='-0.372477'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza San Vicente (Patos)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='117' />
+  </node>
+  <node id='-137111' action='modify' lat='39.4695109' lon='-0.364282'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo X-Xi Pte Mar / Pte Aragon' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='205' />
+  </node>
+  <node id='-137113' action='modify' lat='39.4700259' lon='-0.362569'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo X-Xi Pte Aragon Puente Del Mar' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='208' />
+  </node>
+  <node id='-137117' action='modify' lat='39.4731719' lon='-0.367618'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Viveros Marmol' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='517' />
+  </node>
+  <node id='-137119' action='modify' lat='39.4724029' lon='-0.362688'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Alameda- Muñ?Oz Seca' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='618' />
+  </node>
+  <node id='-137121' action='modify' lat='39.4726679' lon='-0.364213'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Paseo Alameda (Frente Piscina)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='606' />
+  </node>
+  <node id='-137127' action='modify' lat='39.4641359' lon='-0.35762'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Eduardo Bosca 33 / Baleares' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1214' />
+  </node>
+  <node id='-137133' action='modify' lat='39.4643189' lon='-0.355733'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Andres Mancebo (Jardin)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1216' />
+  </node>
+  <node id='-137135' action='modify' lat='39.4636329' lon='-0.352071'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Padre Tomas Montañana, 22' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1213' />
+  </node>
+  <node id='-137137' action='modify' lat='39.4654899' lon='-0.351683'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Avda. Del Puerto/Manuel Candela (Rte. Los Bolos)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1205' />
+  </node>
+  <node id='-137139' action='modify' lat='39.4670659' lon='-0.353187'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Aben Al Abbar (Jardin)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1217' />
+  </node>
+  <node id='-137141' action='modify' lat='39.4702529' lon='-0.362271'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Paseo Alameda (Pte Arago?N-Cuarteles)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='607' />
+  </node>
+  <node id='-137147' action='modify' lat='39.4707039' lon='-0.356377'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Alfredo Candel (Chile)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='610' />
+  </node>
+  <node id='-137149' action='modify' lat='39.4699649' lon='-0.35382'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza San Felipe Neri (Mercado)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1218' />
+  </node>
+  <node id='-137151' action='modify' lat='39.4722979' lon='-0.356508'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Avda. Arago?N / Ernesto Ferrer' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='608' />
+  </node>
+  <node id='-137153' action='modify' lat='39.4737799' lon='-0.354894'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Polo Y Peyroló?N (Mercadona)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='611' />
+  </node>
+  <node id='-137157' action='modify' lat='39.4750489' lon='-0.370491'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Sant Bult' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='101' />
+  </node>
+  <node id='-137163' action='modify' lat='39.4743609' lon='-0.367223'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tramo Vii Jardin Capitania' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='132' />
+  </node>
+  <node id='-137167' action='modify' lat='39.4742969' lon='-0.365598'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Paseo Alameda (Palacete Pergola)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='605' />
+  </node>
+  <node id='-137171' action='modify' lat='39.4762129' lon='-0.366257'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Paseo Alameda (Casilicio)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='603' />
+  </node>
+  <node id='-137173' action='modify' lat='39.4747939' lon='-0.364864'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Pintor Peyro / Alameda' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='602' />
+  </node>
+  <node id='-137175' action='modify' lat='39.4785629' lon='-0.367979'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Viveros Fachada Oficina' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='519' />
+  </node>
+  <node id='-137177' action='modify' lat='39.4779049' lon='-0.365239'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardines De Monforte 1ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='614' />
+  </node>
+  <node id='-137179' action='modify' lat='39.4787009' lon='-0.363117'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Blasco Ibañ?Ez (Frente Hospital Clinico)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='613' />
+  </node>
+  <node id='-137189' action='modify' lat='39.4811439' lon='-0.367125'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Viveros Estanque Bar' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='514' />
+  </node>
+  <node id='-137191' action='modify' lat='39.4754969' lon='-0.35439'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Polo Y Peyrolo?N / Blasco Ibañ?Ez 64' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='612' />
+  </node>
+  <node id='-137193' action='modify' lat='39.4745009' lon='-0.351689'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Doctor Modesto Cogollo' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1311' />
+  </node>
+  <node id='-137195' action='modify' lat='39.4758739' lon='-0.353322'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Avda. Blasco Ibañez Frente Colegio Pilar' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1348' />
+  </node>
+  <node id='-137197' action='modify' lat='39.4773319' lon='-0.354111'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Calle Gorgos Junto Colegio Del Pilar' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1349' />
+  </node>
+  <node id='-137201' action='modify' lat='39.4820109' lon='-0.357214'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Calle Guardia Civil' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1408' />
+  </node>
+  <node id='-137203' action='modify' lat='39.4831389' lon='-0.353487'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Musico Hipolito Martinez, 16 (Jardin Espai Vert)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1409' />
+  </node>
+  <node id='-137205' action='modify' lat='39.4861059' lon='-0.394802'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='General Aviles 35' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='430' />
+  </node>
+  <node id='-137207' action='modify' lat='39.4869949' lon='-0.395118'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Joaquin Muñoz Peirats 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1607' />
+  </node>
+  <node id='-137209' action='modify' lat='39.4874809' lon='-0.394071'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Joaquin Muñoz Peirats, 2' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1608' />
+  </node>
+  <node id='-137211' action='modify' lat='39.4889999' lon='-0.392646'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Nicasio Benlloch 29' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1609' />
+  </node>
+  <node id='-137213' action='modify' lat='39.4854139' lon='-0.389839'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Alfons Verdeguer (Parking)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='454' />
+  </node>
+  <node id='-137215' action='modify' lat='39.4861959' lon='-0.385247'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Doctor Machi' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='531' />
+  </node>
+  <node id='-137217' action='modify' lat='39.4880799' lon='-0.38695'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Joaquin Dualde' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='504' />
+  </node>
+  <node id='-137219' action='modify' lat='39.4881059' lon='-0.386207'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='San Pancracio' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='505' />
+  </node>
+  <node id='-137221' action='modify' lat='39.4907469' lon='-0.392843'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Florista-Bon Regres' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1618' />
+  </node>
+  <node id='-137223' action='modify' lat='39.4941239' lon='-0.395311'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Avda. Burjassot 229' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1604' />
+  </node>
+  <node id='-137225' action='modify' lat='39.4944479' lon='-0.3942'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Bono I Barber ( Escritor )-Jose? Grollo' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1633' />
+  </node>
+  <node id='-137227' action='modify' lat='39.4938889' lon='-0.392789'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Barig S/Nº -C/ Del Sauce' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1636' />
+  </node>
+  <node id='-137229' action='modify' lat='39.4924909' lon='-0.389112'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Poeta Serrano Clavero-C/Del Periodista Gil Sumbiela' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1637' />
+  </node>
+  <node id='-137231' action='modify' lat='39.4928769' lon='-0.388407'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Platanos / Ecuador (Jardin Frente 6)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1601' />
+  </node>
+  <node id='-137233' action='modify' lat='39.4925849' lon='-0.385404'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Castellonet-Alfara Del Patriarca' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1638' />
+  </node>
+  <node id='-137235' action='modify' lat='39.4937359' lon='-0.388834'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Av Ecuador (Jardin Frente 51)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1610' />
+  </node>
+  <node id='-137237' action='modify' lat='39.4947769' lon='-0.387729'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Vicente Añon Marco' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1634' />
+  </node>
+  <node id='-137239' action='modify' lat='39.4864809' lon='-0.381454'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque Marchalenes 5ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='526' />
+  </node>
+  <node id='-137241' action='modify' lat='39.4866159' lon='-0.381263'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque Marchalenes 1ª ( Junto Olivera )' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='522' />
+  </node>
+  <node id='-137245' action='modify' lat='39.4875579' lon='-0.3805'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque De Marchalenes 7ª ( Pista De Tenis )' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='534' />
+  </node>
+  <node id='-137247' action='modify' lat='39.4866409' lon='-0.379199'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Belchite' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='532' />
+  </node>
+  <node id='-137249' action='modify' lat='39.4878439' lon='-0.384216'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Periodista Llorente' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='530' />
+  </node>
+  <node id='-137251' action='modify' lat='39.4878919' lon='-0.383568'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque Marchalenes 4ª ( Junto Estanque )' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='525' />
+  </node>
+  <node id='-137253' action='modify' lat='39.4876229' lon='-0.382588'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque Marchalenes 3ª ( Casa Jardineria Columpios )' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='524' />
+  </node>
+  <node id='-137255' action='modify' lat='39.4881709' lon='-0.383017'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque De Marchalenes 6ª ( Higuera ,Junto Columpios )' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='533' />
+  </node>
+  <node id='-137257' action='modify' lat='39.4887209' lon='-0.380072'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Economista Gay 2' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='507' />
+  </node>
+  <node id='-137259' action='modify' lat='39.4865739' lon='-0.378391'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza De Covadonga' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='508' />
+  </node>
+  <node id='-137265' action='modify' lat='39.4927969' lon='-0.383711'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Avda. Juan Xxiii Entre 31-33 (Parque)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1632' />
+  </node>
+  <node id='-137267' action='modify' lat='39.4928399' lon='-0.381386'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardín Pintor Pedro Cabanes' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1521' />
+  </node>
+  <node id='-137269' action='modify' lat='39.4938759' lon='-0.382633'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Pai Camino De Moncada 2ª-Al Lado Dos Alquerias' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1523' />
+  </node>
+  <node id='-137275' action='modify' lat='39.4936479' lon='-0.375317'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Marques De Montortal / Mestre Marçal' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1504' />
+  </node>
+  <node id='-137277' action='modify' lat='39.4949999' lon='-0.374294'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Salvador Allende' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1503' />
+  </node>
+  <node id='-137279' action='modify' lat='39.4971029' lon='-0.395312'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque Benicalap Campo Futbol' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1622' />
+  </node>
+  <node id='-137281' action='modify' lat='39.4964079' lon='-0.392372'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Avda. Ecuador Frente Nº 95 (Jardin)- Benicalap Norte' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1629' />
+  </node>
+  <node id='-137285' action='modify' lat='39.4989419' lon='-0.393071'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Avda. San Jose Artesano 24' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1602' />
+  </node>
+  <node id='-137287' action='modify' lat='39.4986119' lon='-0.392461'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Luis Marti Alegre ( Jardin )' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1635' />
+  </node>
+  <node id='-137289' action='modify' lat='39.4988859' lon='-0.391818'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Luis Martí Alegre' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1603' />
+  </node>
+  <node id='-137291' action='modify' lat='39.4959949' lon='-0.38678'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Jose Maria Gimenez Fayos 2ª (Pai)- Benicalap Sur' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1628' />
+  </node>
+  <node id='-137295' action='modify' lat='39.4994659' lon='-0.388687'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Avda. Ecuador Paseo Jardin Final Izda- Benicalap Norte' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1631' />
+  </node>
+  <node id='-137297' action='modify' lat='39.4962709' lon='-0.381405'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Pai Camino De Moncada 1ª--Rio Nervion Nº 3' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1522' />
+  </node>
+  <node id='-137299' action='modify' lat='39.4978179' lon='-0.379954'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Rio Bidasoa Teresa Oller Benlloch' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1525' />
+  </node>
+  <node id='-137301' action='modify' lat='39.4970059' lon='-0.375576'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jacomar (Frente Nº 7-9)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1517' />
+  </node>
+  <node id='-137305' action='modify' lat='39.4976079' lon='-0.374511'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza San Jeronimo-Monte Carmelo' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1520' />
+  </node>
+  <node id='-137307' action='modify' lat='39.4986559' lon='-0.377517'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Torrefiel -Cecilio Pla' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1524' />
+  </node>
+  <node id='-137309' action='modify' lat='39.5028109' lon='-0.382667'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardinplaza Iglesia (Poble Nou)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1701' />
+  </node>
+  <node id='-137311' action='modify' lat='39.5029129' lon='-0.382724'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardín Plaza Iglesia 2 (Poble Nou)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1718' />
+  </node>
+  <node id='-137313' action='modify' lat='39.5060619' lon='-0.384008'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Camino De Moncada (Poble Nou)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1702' />
+  </node>
+  <node id='-137321' action='modify' lat='39.4898039' lon='-0.36911'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Motilla Del Palancar' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1513' />
+  </node>
+  <node id='-137323' action='modify' lat='39.4872639' lon='-0.364198'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Albocacer, 25' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1414' />
+  </node>
+  <node id='-137327' action='modify' lat='39.4915329' lon='-0.370754'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Ramon Contreras Mongrell' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1509' />
+  </node>
+  <node id='-137329' action='modify' lat='39.4913919' lon='-0.369139'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Hermanos Bequer' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1510' />
+  </node>
+  <node id='-137331' action='modify' lat='39.4930609' lon='-0.370021'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Arquitecto Rodriguez, 22' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1511' />
+  </node>
+  <node id='-137333' action='modify' lat='39.4947259' lon='-0.372785'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='C/ Conde Lumiares / Falcons' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1516' />
+  </node>
+  <node id='-137335' action='modify' lat='39.4934899' lon='-0.367822'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='San Vicente De Paul' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1415' />
+  </node>
+  <node id='-137337' action='modify' lat='39.4942319' lon='-0.365566'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parque Orriols' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1515' />
+  </node>
+  <node id='-137339' action='modify' lat='39.4946919' lon='-0.367628'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Esteban Dolz De Castellar' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1506' />
+  </node>
+  <node id='-137347' action='modify' lat='39.4879969' lon='-0.362338'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Torreta De Miramar' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1402' />
+  </node>
+  <node id='-137349' action='modify' lat='39.4898829' lon='-0.361927'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Dolores Marques / Avda. Valladolid' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1413' />
+  </node>
+  <node id='-137351' action='modify' lat='39.4890689' lon='-0.361017'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Av. Valladolid ( Frente Gasolinera )' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1419' />
+  </node>
+  <node id='-137353' action='modify' lat='39.4899179' lon='-0.36064'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Emilio Baro Frente, 68 (Detrás De Gasolinera)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1410' />
+  </node>
+  <node id='-137355' action='modify' lat='39.4888159' lon='-0.358548'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Avda. Valladolid, 33' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1403' />
+  </node>
+  <node id='-137361' action='modify' lat='39.4893809' lon='-0.356884'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Emili Beut Í Berenguer' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1418' />
+  </node>
+  <node id='-137363' action='modify' lat='39.4916888' lon='-0.35861'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Masquefa / Emilio Baro' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1401' />
+  </node>
+  <node id='-137365' action='modify' lat='39.4919258' lon='-0.359393'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Raco De L&apos;Horta' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1512' />
+  </node>
+  <node id='-137367' action='modify' lat='39.4919718' lon='-0.357694'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Capitanes Galan Y Garcia Hernandez' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1411' />
+  </node>
+  <node id='-137369' action='modify' lat='39.4960349' lon='-0.372504'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Tossal De Rei / Conde Lumiares' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1519' />
+  </node>
+  <node id='-137371' action='modify' lat='39.4973249' lon='-0.372926'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza San Jeronimo-Fray Francisco Cabezas' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1527' />
+  </node>
+  <node id='-137373' action='modify' lat='39.4967929' lon='-0.369315'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='San Juan Bosco-Santiago Rusiñor' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1526' />
+  </node>
+  <node id='-137375' action='modify' lat='39.4976379' lon='-0.370692'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Avda. Constitución-Hnos. Machado' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1518' />
+  </node>
+  <node id='-137377' action='modify' lat='39.5031598' lon='-0.363433'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Tavernes Blanques' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1716' />
+  </node>
+  <node id='-137379' action='modify' lat='39.534587' lon='-0.4123121'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Casal Juventud De Rocafort' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1821' />
+  </node>
+  <node id='-137381' action='modify' lat='39.543862' lon='-0.4072851'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Masarrochos 2' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1712' />
+  </node>
+  <node id='-137383' action='modify' lat='39.543262' lon='-0.4070951'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Masarrochos 3ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1717' />
+  </node>
+  <node id='-137385' action='modify' lat='39.54358' lon='-0.4071651'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Masarrochos 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1711' />
+  </node>
+  <node id='-137387' action='modify' lat='39.540413' lon='-0.4062351'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='D&apos; Aspiroz (Frente Nº 19)  (Masarrochos)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1715' />
+  </node>
+  <node id='-137391' action='modify' lat='39.5068399' lon='-0.385703'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Entrada Casa Daniel (Poble Nou)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1703' />
+  </node>
+  <node id='-137393' action='modify' lat='39.5087189' lon='-0.384977'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Camino De Moncada 291 (Poble Nou)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1704' />
+  </node>
+  <node id='-137395' action='modify' lat='39.5156539' lon='-0.39078'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Moreral Siver (Borboto)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1705' />
+  </node>
+  <node id='-137397' action='modify' lat='39.5141689' lon='-0.389915'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Calle Mestre (Borbotó)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1720' />
+  </node>
+  <node id='-137399' action='modify' lat='39.5169159' lon='-0.379744'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Casas Adosadas Carpesa' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1706' />
+  </node>
+  <node id='-137401' action='modify' lat='39.5170349' lon='-0.378136'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza De Carpesa' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1707' />
+  </node>
+  <node id='-137403' action='modify' lat='39.5184079' lon='-0.387035'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Ermita De Santa Ana (Borbotó)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1719' />
+  </node>
+  <node id='-137405' action='modify' lat='39.5286929' lon='-0.385584'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Greco (Benifaraig)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1708' />
+  </node>
+  <node id='-137407' action='modify' lat='39.5222248' lon='-0.35738'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Ctra. Barcelona (Casas De Barcena N. 101)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1714' />
+  </node>
+  <node id='-137409' action='modify' lat='39.3784693' lon='-0.3235123'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Paseo Maritimo Saler Derecha 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1938' />
+  </node>
+  <node id='-137411' action='modify' lat='39.3805362' lon='-0.3271953'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Pinada Saler Entrada Paseo Dcha.' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1908' />
+  </node>
+  <node id='-137413' action='modify' lat='39.3840403' lon='-0.3263503'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Paseo Maritimo Saler Izquierda 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1936' />
+  </node>
+  <node id='-137415' action='modify' lat='39.3853433' lon='-0.3261733'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Paseo Maritimo Saler Izquierda 2' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1937' />
+  </node>
+  <node id='-137417' action='modify' lat='39.4014933' lon='-0.3307353'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Playa Arbre Del Gos 3ª (Final Paseo)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1948' />
+  </node>
+  <node id='-137419' action='modify' lat='39.4064923' lon='-0.3322183'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Playa Arbre Del Gos 2ª ( Junto Cruz Roja )' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1947' />
+  </node>
+  <node id='-137421' action='modify' lat='39.4090052' lon='-0.3327783'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Playa Arbre Del Gos 1ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1946' />
+  </node>
+  <node id='-137423' action='modify' lat='39.4155741' lon='-0.3354403'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Camino De Montanares (Pinedo)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1914' />
+  </node>
+  <node id='-137425' action='modify' lat='39.4213755' lon='-0.3455931'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Camino Del Tremolar 163' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1939' />
+  </node>
+  <node id='-137427' action='modify' lat='39.4221529' lon='-0.3394382'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Iglesia De Pinedo' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1918' />
+  </node>
+  <node id='-137429' action='modify' lat='39.422377' lon='-0.3379882'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Mosen Cuenca (Pinedo)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1917' />
+  </node>
+  <node id='-137431' action='modify' lat='39.4316427' lon='-0.3429982'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Tres Caminos (Pinedo)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1026' />
+  </node>
+  <node id='-137433' action='modify' lat='39.4314927' lon='-0.3427142'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Carretera Del Rio 243' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1027' />
+  </node>
+  <node id='-137435' action='modify' lat='39.4413186' lon='-0.3438821'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jesus Morante Borras, 212' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1025' />
+  </node>
+  <node id='-137437' action='modify' lat='39.4420536' lon='-0.3439111'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jesus Morante Borras, 194' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1024' />
+  </node>
+  <node id='-137439' action='modify' lat='39.4446545' lon='-0.3444561'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Camino Del Caminot, 85' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1022' />
+  </node>
+  <node id='-137441' action='modify' lat='39.4461956' lon='-0.3438441'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jesus Morante Borras, 112 (Jardin)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1021' />
+  </node>
+  <node id='-137443' action='modify' lat='39.4474745' lon='-0.3440201'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jesus Morante Borras, Frente 85 (Jardín)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1020' />
+  </node>
+  <node id='-137445' action='modify' lat='39.4483895' lon='-0.3440351'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jesus Morante Borras, 80' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1019' />
+  </node>
+  <node id='-137447' action='modify' lat='39.4454659' lon='-0.3395602'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Con. La Punta Al Mar 39 (Nazaret)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1125' />
+  </node>
+  <node id='-137453' action='modify' lat='39.4496243' lon='-0.3333412'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Fontilles' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1123' />
+  </node>
+  <node id='-137455' action='modify' lat='39.4498054' lon='-0.3320883'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Polideportivo De Nazaret 1ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1127' />
+  </node>
+  <node id='-137457' action='modify' lat='39.4506374' lon='-0.3319273'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Polideportivo De Nazaret 2ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1128' />
+  </node>
+  <node id='-137459' action='modify' lat='39.4514944' lon='-0.3317143'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Polideportivo De Nazaret 3ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1129' />
+  </node>
+  <node id='-137463' action='modify' lat='39.4563571' lon='-0.348753'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cauce Rio Tramo Xiv Frente Museo Principe' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1045' />
+  </node>
+  <node id='-137465' action='modify' lat='39.4552177' lon='-0.3407341'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Del Grao 2' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1122' />
+  </node>
+  <node id='-137477' action='modify' lat='39.4554068' lon='-0.3402971'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Del Grao 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1121' />
+  </node>
+  <node id='-137479' action='modify' lat='39.4592289' lon='-0.3376062'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Juan Verdeguer/Jesús De Medinaceli' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1132' />
+  </node>
+  <node id='-137481' action='modify' lat='39.459983' lon='-0.3365212'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Toneleros-Pez' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1148' />
+  </node>
+  <node id='-137483' action='modify' lat='39.4607907' lon='-0.3396411'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Ibiza' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1223' />
+  </node>
+  <node id='-137489' action='modify' lat='39.4610962' lon='-0.3321742'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='J.J. Domine Jardín' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1133' />
+  </node>
+  <node id='-137491' action='modify' lat='39.4642449' lon='-0.351065'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Francisco De A. Bosch Ariño (Catedratic)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1232' />
+  </node>
+  <node id='-137497' action='modify' lat='39.4641713' lon='-0.3462111'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Guillem De Anglesola (Jardin)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1204' />
+  </node>
+  <node id='-137501' action='modify' lat='39.4663451' lon='-0.348743'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Pintor Nicolau (Jardin)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1206' />
+  </node>
+  <node id='-137505' action='modify' lat='39.4653924' lon='-0.3435361'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Mirambell / Mariano Albesa (Jardin)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1201' />
+  </node>
+  <node id='-137507' action='modify' lat='39.4649096' lon='-0.3407441'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Musico Asensio Magraner Perez' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1235' />
+  </node>
+  <node id='-137509' action='modify' lat='39.4665044' lon='-0.3439011'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='C/ Jerónimo Monsoriu Frente Jardín De Ayora' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1230' />
+  </node>
+  <node id='-137511' action='modify' lat='39.4671184' lon='-0.3438591'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Ayora 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1209' />
+  </node>
+  <node id='-137513' action='modify' lat='39.4680923' lon='-0.3445751'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Humanista Furio 1ª (Jardín Ayora)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1207' />
+  </node>
+  <node id='-137515' action='modify' lat='39.4681494' lon='-0.3438071'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardín Ayora 2ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1210' />
+  </node>
+  <node id='-137519' action='modify' lat='39.4708552' lon='-0.3464021'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cl/ Leones / Campoamor' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1231' />
+  </node>
+  <node id='-137521' action='modify' lat='39.471524' lon='-0.349417'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Campoamor/ Doctor Manuel Candela' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1313' />
+  </node>
+  <node id='-137525' action='modify' lat='39.4715832' lon='-0.3468551'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Del Cedro (Jardin)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1314' />
+  </node>
+  <node id='-137527' action='modify' lat='39.4723492' lon='-0.3462091'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parking Explorador Andres1ª-C/ De La Actriz' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1357' />
+  </node>
+  <node id='-137531' action='modify' lat='39.4695055' lon='-0.3417501'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Campoamor Nº 102' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1346' />
+  </node>
+  <node id='-137533' action='modify' lat='39.4697754' lon='-0.3427031'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Campoamor/ Musico Gines' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1320' />
+  </node>
+  <node id='-137535' action='modify' lat='39.4710025' lon='-0.3423321'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Musico Gines (Pista Futbito)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1322' />
+  </node>
+  <node id='-137537' action='modify' lat='39.4715292' lon='-0.3456441'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Parking Explorador Andres 2ª-Fte Nº 31' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1358' />
+  </node>
+  <node id='-137539' action='modify' lat='39.4721593' lon='-0.3453101'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Poeta Duran Y Tortajada, 2ª-Frente Nº6' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1359' />
+  </node>
+  <node id='-137545' action='modify' lat='39.4716464' lon='-0.3432801'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Poeta Duran Y Tortajada, 20 (Jardin)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1323' />
+  </node>
+  <node id='-137549' action='modify' lat='39.4713255' lon='-0.3410091'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Poeta Andres Cabrelles (Jardin)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1321' />
+  </node>
+  <node id='-137555' action='modify' lat='39.4671206' lon='-0.3399361'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Justo Y Pastor, 128 (Edificio Arco)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1202' />
+  </node>
+  <node id='-137557' action='modify' lat='39.4673388' lon='-0.3370562'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Pintor Ferrer Calatayud' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1319' />
+  </node>
+  <node id='-137563' action='modify' lat='39.4685257' lon='-0.3393031'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Pintor Gonzalo Peris' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1360' />
+  </node>
+  <node id='-137569' action='modify' lat='39.4711898' lon='-0.3367352'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Esteban Ballester' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1112' />
+  </node>
+  <node id='-137573' action='modify' lat='39.4719539' lon='-0.3345892'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Manuela Estelles' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1115' />
+  </node>
+  <node id='-137579' action='modify' lat='39.474818' lon='-0.349727'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Avda. Blasco Ibañez, 65' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1307' />
+  </node>
+  <node id='-137581' action='modify' lat='39.4763609' lon='-0.350318'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Xuquer (Jardin)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1309' />
+  </node>
+  <node id='-137585' action='modify' lat='39.4783849' lon='-0.350201'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Albalat Dels Tarongers 1ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1343' />
+  </node>
+  <node id='-137589' action='modify' lat='39.478596' lon='-0.349328'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Albalat Dels Tarongers 3ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1356' />
+  </node>
+  <node id='-137591' action='modify' lat='39.4780601' lon='-0.347494'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Paseo De Las Facultades' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1310' />
+  </node>
+  <node id='-137595' action='modify' lat='39.4745446' lon='-0.3388271'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 5-8' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1339' />
+  </node>
+  <node id='-137597' action='modify' lat='39.4745167' lon='-0.3384161'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 5-9' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1340' />
+  </node>
+  <node id='-137599' action='modify' lat='39.4746916' lon='-0.3390451'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 5-7' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1338' />
+  </node>
+  <node id='-137601' action='modify' lat='39.4748756' lon='-0.3390581'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 5-6' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1337' />
+  </node>
+  <node id='-137603' action='modify' lat='39.4749806' lon='-0.3389611'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 5-5' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1336' />
+  </node>
+  <node id='-137605' action='modify' lat='39.4746267' lon='-0.3382211'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 5-10' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1341' />
+  </node>
+  <node id='-137607' action='modify' lat='39.4748387' lon='-0.3382431'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 5-11' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1342' />
+  </node>
+  <node id='-137609' action='modify' lat='39.4752256' lon='-0.3384331'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal. Centro 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1355' />
+  </node>
+  <node id='-137611' action='modify' lat='39.4752256' lon='-0.3384331'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal.Secion 5-12' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1354' />
+  </node>
+  <node id='-137613' action='modify' lat='39.4752256' lon='-0.3384331'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 5-13' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1347' />
+  </node>
+  <node id='-137615' action='modify' lat='39.4752256' lon='-0.3384331'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1324' />
+  </node>
+  <node id='-137617' action='modify' lat='39.4752816' lon='-0.3388301'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 5-4' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1335' />
+  </node>
+  <node id='-137619' action='modify' lat='39.4753697' lon='-0.3380801'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 5-3' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1334' />
+  </node>
+  <node id='-137621' action='modify' lat='39.4754837' lon='-0.3380901'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 5-2' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1333' />
+  </node>
+  <node id='-137623' action='modify' lat='39.4756767' lon='-0.3382351'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 5-1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1332' />
+  </node>
+  <node id='-137625' action='modify' lat='39.4757946' lon='-0.3381891'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 4-1' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1327' />
+  </node>
+  <node id='-137627' action='modify' lat='39.4760696' lon='-0.3382751'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal, Sec. 4-2' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1328' />
+  </node>
+  <node id='-137629' action='modify' lat='39.4764616' lon='-0.3382721'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 4-4' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1330' />
+  </node>
+  <node id='-137631' action='modify' lat='39.4765776' lon='-0.3381931'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 4-5' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1331' />
+  </node>
+  <node id='-137633' action='modify' lat='39.4764966' lon='-0.3380241'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 4-3' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1329' />
+  </node>
+  <node id='-137635' action='modify' lat='39.4757807' lon='-0.3377731'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 2' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1325' />
+  </node>
+  <node id='-137637' action='modify' lat='39.4760747' lon='-0.3377491'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Cementerio Cabañal Sec. 3' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1326' />
+  </node>
+  <node id='-137643' action='modify' lat='39.4816449' lon='-0.3319312'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Ingeniero Fausto Elio-Pza Pintor Villar Corella (Jardín 1ª)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1140' />
+  </node>
+  <node id='-137645' action='modify' lat='39.4829989' lon='-0.3316422'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Ingeniero Fausto Elio-Pza. Pintor Villar Corella (Jardín 2ª)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1141' />
+  </node>
+  <node id='-137647' action='modify' lat='39.4639785' lon='-0.3281683'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Fuente Podrida' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1143' />
+  </node>
+  <node id='-137649' action='modify' lat='39.4667585' lon='-0.3270083'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardin Virgen Del Castillo Dentro Parque Infantil' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1131' />
+  </node>
+  <node id='-137651' action='modify' lat='39.4644258' lon='-0.3229713'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Otumba/Avda. Neptuno' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1135' />
+  </node>
+  <node id='-137653' action='modify' lat='39.4683936' lon='-0.3246373'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Paseo Marítimo 1ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1101' />
+  </node>
+  <node id='-137655' action='modify' lat='39.4703186' lon='-0.3245923'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Paseo Maritimo/Historiador Coloma' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1138' />
+  </node>
+  <node id='-137657' action='modify' lat='39.4703206' lon='-0.3245653'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Paseo Maritimo/Historiador Coloma--2ª' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1151' />
+  </node>
+  <node id='-137665' action='modify' lat='39.4771432' lon='-0.3275512'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Jardín Cronista Francisco Montblach' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1107' />
+  </node>
+  <node id='-137667' action='modify' lat='39.4781182' lon='-0.3272902'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza Libertador Simon Bolivar' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1108' />
+  </node>
+  <node id='-137671' action='modify' lat='39.4790654' lon='-0.3245823'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Paseo Marítimo (Frente Polideportivo)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1136' />
+  </node>
+  <node id='-137675' action='modify' lat='39.4826291' lon='-0.3282592'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Isla De Hierro-Rio Jiloca-( Jardin )' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1149' />
+  </node>
+  <node id='-137677' action='modify' lat='39.482886' lon='-0.3291502'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Gran Canaria (Frente Nº 33)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1142' />
+  </node>
+  <node id='-137679' action='modify' lat='39.4832573' lon='-0.3247622'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Paseo Maritimo (Frente Pabellón Malvarrosa)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1137' />
+  </node>
+  <node id='-137681' action='modify' lat='39.5442149' lon='-0.333906'>
+    <tag k='amenity' v='drinking_water' />
+    <tag k='description' v='Plaza S. Benito (Mauella)' />
+    <tag k='operator' v='Ajuntament de València' />
+    <tag k='ref' v='1713' />
+  </node>
+</osm>
